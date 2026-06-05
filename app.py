@@ -20,7 +20,7 @@ st.set_page_config(
 )
 
 # 2. API Key Configuration
-API_KEY = "b30b59efe139a7ab415c94cadea677a3"
+API_KEY = "Your api key here"  # Replace with your actual OpenWeatherMap API key
 
 # 3. Air Quality Index Category Definitions
 AQI_MAPPING = {
